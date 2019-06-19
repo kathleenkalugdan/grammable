@@ -1,0 +1,5 @@
+class Gram < ApplicationRecord
+
+ 
+
+end
