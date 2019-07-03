@@ -2,8 +2,9 @@
 
 body {
   background-color: #fafafa;
-  font-family: 'Josefina Sans', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
+
 
 .top-nav {
   background-color: white;
@@ -74,6 +75,7 @@ input {
   font-size: 24px;
   color: white;
   margin-top: 10px;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .input.boolean {
@@ -91,6 +93,7 @@ input {
   font-size: 16px;
   margin-right: 20px;
   margin-left: auto;
+  
 }
 
 
@@ -100,10 +103,20 @@ input {
 
 .comment {
   font-size: 16px;
+  font-weight: 400;
+
 }
 
 .comment_handle {
   color: #125688;
   font-weight: bold;
   font-size: 18px;
+}
+
+h4 {
+  font-weight: 200;
+  padding-top: 10px;
+    font-size: 18px;
+
+
 }
